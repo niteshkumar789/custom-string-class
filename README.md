@@ -2,10 +2,14 @@
 
 This is a simple implementation of a custom C++ string class named `MyString`, designed to mimic the functionality of `std::string`. It demonstrates dynamic memory handling, operator overloading, and clean object-oriented design in C++.
 
+---
+
 ## Files
 
 - `MyString.h`: Header file containing the class declaration.
 - `MyString.cpp`: Source file with definitions for all `MyString` class member functions.
+
+---
 
 ## Features
 
@@ -13,6 +17,8 @@ This is a simple implementation of a custom C++ string class named `MyString`, d
 - Deep copy constructor and assignment operator
 - Dynamic memory allocation
 - Basic string manipulation utilities
+
+---
 
 ## TO run, use below command
 ### Step 1: Compile source files into object files
@@ -24,6 +30,8 @@ This is a simple implementation of a custom C++ string class named `MyString`, d
 
 ### Step 3: Run the executable
 `./main`
+
+---
 
 ## Usage
 
@@ -38,11 +46,22 @@ int main() {
     cout << s2 << endl;
 }
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome! Feel free to open a PR or raise an issue.
 
-📜 License
+---
+
+## 📜 License
+
 This project is licensed under the MIT License.
 
-✨ Author
+---
+
+## ✨ Author
+
 Nitesh Kumar 3rd Year B.Tech (CSE)
+
+---
