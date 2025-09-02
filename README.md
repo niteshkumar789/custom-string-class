@@ -15,14 +15,14 @@ This is a simple implementation of a custom C++ string class named `MyString`, d
 - Basic string manipulation utilities
 
 ## TO run, use below command
-# Step 1: Compile source files into object files
+### Step 1: Compile source files into object files
 g++ -c MyString.cpp     # Produces MyString.o
 g++ -c main.cpp        # Produces main.o
 
-# Step 2: Link the object files
+### Step 2: Link the object files
 g++ MyString.o main.o -o main
 
-# Step 3: Run the executable
+### Step 3: Run the executable
 ./main
 
 ## Usage
