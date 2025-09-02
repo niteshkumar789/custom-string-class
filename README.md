@@ -35,16 +35,15 @@ This is a simple implementation of a custom C++ string class named `MyString`, d
 
 ## Usage
 
-```cpp
-#include "MyString.h"
+    #include "MyString.h"
 
-int main() {
-    MyString s1("isaacnewton");
-    MyString s2  = s1;
-    s2 += " is great";
+    int main() {
+        MyString s1("isaacnewton");
+        MyString s2  = s1;
+        s2 += " is great";
 
-    cout << s2 << endl;
-}
+        cout << s2 << endl;
+    }
 
 ---
 
